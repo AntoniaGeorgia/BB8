@@ -11,7 +11,9 @@ Această combinație de programare de nivel jos, senzori și mecanisme fizice va
 
 ## _Laboratoare folosite_
 -Lab 1 
--Lab 2 -folosesc timer
+
+-Lab 2 -folosesc timere
+
 -Lab 4- Pentru comunicare
 
 ## _Lista de piese_ :
