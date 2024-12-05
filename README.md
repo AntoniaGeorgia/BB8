@@ -28,7 +28,7 @@ Robotul BB-8 este cunoscut pentru designul său unic, compus dintr-un corp sferi
 ![BB8](https://github.com/user-attachments/assets/0251fe0e-a6a9-4fb1-9160-7d2d179cf6eb)
 
 
-<img src="   " align="right"
+<img src="https://github.com/AntoniaGeorgia/BB8/blob/main/BB8.jpeg" align="right"
      alt="Size Limit logo by Anton Lovchikov" width="120" height="178">
 
 
