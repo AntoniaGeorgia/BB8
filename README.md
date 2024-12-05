@@ -1,3 +1,7 @@
+<h1 align="center" >
+BB-8 Replica 
+</h1>
+
 ## _Introducere_ :
 
 Acest proiect are ca scop construirea unei replici funcționale a robotului BB-8 din universul cinematografic Star Wars. Pe lângă aspectul său iconic, replica va fi dotată cu funcționalități practice, cum ar fi capacitatea de a detecta și evita obstacolele întâlnite în timpul deplasării.
