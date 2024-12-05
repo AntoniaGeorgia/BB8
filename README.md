@@ -9,13 +9,22 @@ Lista de piese :
 -L293 Shield
 
 -Servo
+
 -HC-SR04
+
 -Motor DC
+
 -Roti
+
 -Fire
+
 -Magneti 
+
 -Baterii
 
+
 ![BB8](https://github.com/user-attachments/assets/0251fe0e-a6a9-4fb1-9160-7d2d179cf6eb)
+
+
 
 
