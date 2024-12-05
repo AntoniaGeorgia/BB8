@@ -5,23 +5,18 @@ Robotul BB-8 este cunoscut pentru designul său unic, compus dintr-un corp sferi
 
 ## _Lista de piese_ :
 
--Arduino Uno 
+| Componentă       | Descriere                                    | Cantitate | Poze              |
+|-------------------|----------------------------------------------|-----------|-------------------------|
+| Arduino Uno       | Placă de dezvoltare pentru control           | 1         | Compatibil cu L293 Shield |
+| L293 Shield       | Driver pentru motoare                       | 1         | Necesită conectare la Arduino |
+| Servo             | Motor servo pentru mișcare precisă          | 1         |                       |
+| HC-SR04           | Senzor ultrasonic pentru măsurarea distanței| 1         |                       |
+| Motor DC          | Motor de curent continuu pentru roți        | 2         | Necesită driver L293  |
+| Roti              | Roti pentru motor DC                        | 2         | Dimensiuni compatibile |
+| Fire              | Cablu pentru conectare componente           | Mai multe | Lungimi variate        |
+| Magneti           | Magneti pentru fixare sau funcționalitate   | Mai multe | Depinde de proiect     |
+| Baterii           | Sursa de energie pentru Arduino și motoare  | 1 set     | Tensiune corespunzătoare |
 
--L293 Shield
-
--Servo
-
--HC-SR04
-
--Motor DC
-
--Roti
-
--Fire
-
--Magneti 
-
--Baterii
 
 ## _Poze_
 
@@ -36,6 +31,7 @@ Robotul BB-8 este cunoscut pentru designul său unic, compus dintr-un corp sferi
 ## _Schema electrica_
 ## _Etape realizare corp robot_
 ## _Cod_
+
 
 
 
