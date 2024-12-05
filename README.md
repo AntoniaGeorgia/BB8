@@ -7,15 +7,15 @@ Robotul BB-8 este cunoscut pentru designul său unic, compus dintr-un corp sferi
 
 | Componentă       | Descriere                                    | Cantitate | Poze              |
 |-------------------|----------------------------------------------|-----------|-------------------------|
-| Arduino Uno       | Placă de dezvoltare pentru control           | 1         | Compatibil cu L293 Shield |
-| L293 Shield       | Driver pentru motoare                       | 1         | Necesită conectare la Arduino |
-| Servo             | Motor servo pentru mișcare precisă          | 1         |                       |
-| HC-SR04           | Senzor ultrasonic pentru măsurarea distanței| 1         |                       |
-| Motor DC          | Motor de curent continuu pentru roți        | 2         | Necesită driver L293  |
-| Roti              | Roti pentru motor DC                        | 2         | Dimensiuni compatibile |
-| Fire              | Cablu pentru conectare componente           | Mai multe | Lungimi variate        |
-| Magneti           | Magneti pentru fixare sau funcționalitate   | Mai multe | Depinde de proiect     |
-| Baterii           | Sursa de energie pentru Arduino și motoare  | 1 set     | Tensiune corespunzătoare |
+| Arduino Uno       | Placă de dezvoltare pentru control           | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/ARD " width="100">  |
+| L293 Shield       | Driver pentru motoare                       | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/l293.jpeg " width="100"> |
+| Servo             | Motor servo pentru mișcare precisă          | 1         |<img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/servo.jpeg" width="100">                      |
+| HC-SR04           | Senzor ultrasonic pentru măsurarea distanței| 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/hc.jpeg" width="100">                    |
+| Motor DC          | Motor de curent continuu pentru roți        | 2         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/motor%20dc.jpeg " width="100">   |
+| Roti              | Roti pentru motor DC                        | 2         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/set-de-4-roi-negre-cu-aderena-puternica.jpg " width="100">  |
+| Fire              | Cablu pentru conectare componente           | Mai multe | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/wire.jpeg " width="100">       |
+| Magneti           | Magneti pentru fixare sau funcționalitate   | Mai multe | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/magneti.jpeg" width="100">     |
+| Baterii           | Sursa de energie pentru Arduino și motoare  | 1 set     | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/standarde-baterii-1.jpg " width="100">  |
 
 
 ## _Poze_
