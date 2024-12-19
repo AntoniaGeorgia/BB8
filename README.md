@@ -59,8 +59,7 @@ Schema electrică integrează modulul Bluetooth ZS-040 conectat la pinii A0 și 
  <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/WhatsApp%20Image%202024-12-19%20at%2016.50.07_f9c2a346.jpg" width="500">
    
 
-
-     https://github.com/user-attachments/assets/b1289d51-c061-4a3d-81a7-7f5a8ad521d3
+https://github.com/AntoniaGeorgia/BB8/blob/main/img/videobb8.mp4
 
 
 
