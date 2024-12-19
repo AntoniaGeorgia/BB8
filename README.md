@@ -52,11 +52,11 @@ Schema electrică integrează modulul Bluetooth ZS-040 conectat la pinii A0 și 
 
    <img src="https://github.com/user-attachments/assets/250471c0-aacb-460a-8f44-2eb10e42faf5" width="500">
 
-   ![WhatsApp Image 2024-12-19 at 16 31 36_164d0b1b](https://github.com/user-attachments/assets/434f2d9c-dc36-4780-82d2-3261b4568838
-   ![WhatsApp Image 2024-12-19 at 16 31 37_64634201](https://github.com/user-attachments/assets/3f9f98c5-a2bf-405b-88d1-6f8a2c61e9a7
-   ![WhatsApp Image 2024-12-19 at 16 31 38_849846c0](https://github.com/user-attachments/assets/f52fdb44-4f9a-44fa-94bc-72fd676b58b1
-   ![WhatsApp Image 2024-12-19 at 16 31 38_a1564142](https://github.com/user-attachments/assets/016769b4-a115-4a72-b69f-4e5f862afb8f
-   ![WhatsApp Image 2024-12-19 at 16 50 07_465a5c95](https://github.com/user-attachments/assets/f8217331-3e5a-47fd-abe7-e4d3e2e5ecc8
+   <img src=" https://github.com/AntoniaGeorgia/BB8/blob/main/img/WhatsApp%20Image%202024-12-19%20at%2016.31.36_4fe6543a.jpg" width="500">
+ <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/WhatsApp%20Image%202024-12-19%20at%2016.31.37_54c3725b.jpg" width="500">
+ <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/WhatsApp%20Image%202024-12-19%20at%2016.31.38_b355ada0.jpg" width="500">
+ <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/WhatsApp%20Image%202024-12-19%20at%2016.31.38_ce4c7c35.jpg" width="500">
+ <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/WhatsApp%20Image%202024-12-19%20at%2016.50.07_f9c2a346.jpg" width="500">
    
 
 
