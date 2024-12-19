@@ -22,7 +22,7 @@ Această combinație de programare de nivel jos, mecanisme fizice și control wi
 | Arduino Uno       | Placă de dezvoltare pentru control           | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/ARD" width="100">  |
 | L292N Shield       | Driver pentru motoare                       | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/l293.jpeg" width="100"> |
 | Servo             | Motor servo pentru mișcare precisă          | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/servo.jpeg" width="100">                      |
-| Bluetooth ZS-040  | Modul Bluetooth pentru control wireless     | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/bluetooth.jpeg" width="100">                    |
+| Bluetooth ZS-040  | Modul Bluetooth pentru control wireless     | 1         | <img src="![HC-05-Bluetooth-ZS-040-Button](https://github.com/user-attachments/assets/4cf3e9c6-ab1f-4b39-b09d-df75bb6651b0)" width="100">                    |
 | Motor DC          | Motor de curent continuu pentru roți        | 2         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/motor%20dc.jpeg" width="100">   |
 | Roti              | Roti pentru motor DC                        | 2         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/set-de-4-roi-negre-cu-aderena-puternica.jpg" width="100">  |
 | Fire              | Cablu pentru conectare componente           | Mai multe | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/wire.jpeg" width="100">       |
