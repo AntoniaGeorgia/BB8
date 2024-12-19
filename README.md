@@ -45,6 +45,19 @@ Schema electrică integrează modulul Bluetooth ZS-040 conectat la pinii A0 și 
 
 1. **Construcția corpului sferic și a cadrului intern**: Am folosit imprimanta 3D din laboratorul 314 pentru a realiza suportii pieselor , doi piloni de sustinere si un cilindru pentru a fi actionat de servomotor .Pentru realizarea schemei 3D am folosit aplicatiile AUTODESK FUSION si PRUSA .
    ![image](https://github.com/user-attachments/assets/02ef5ad4-58c3-4308-bf49-d6c46aa57aa1)
+
+   ![image](https://github.com/user-attachments/assets/7877d16f-17dc-4cd1-9ea8-11d57c953b41)
+
+   ![image](https://github.com/user-attachments/assets/250471c0-aacb-460a-8f44-2eb10e42faf5)
+
+   ![WhatsApp Image 2024-12-19 at 16 31 36_164d0b1b](https://github.com/user-attachments/assets/434f2d9c-dc36-4780-82d2-3261b4568838)
+   ![WhatsApp Image 2024-12-19 at 16 31 37_64634201](https://github.com/user-attachments/assets/3f9f98c5-a2bf-405b-88d1-6f8a2c61e9a7)
+   ![WhatsApp Image 2024-12-19 at 16 31 38_849846c0](https://github.com/user-attachments/assets/f52fdb44-4f9a-44fa-94bc-72fd676b58b1)
+   ![WhatsApp Image 2024-12-19 at 16 31 38_a1564142](https://github.com/user-attachments/assets/016769b4-a115-4a72-b69f-4e5f862afb8f)
+
+
+
+
    
 
 3. **Montarea componentelor electronice**: Pe primul suport am montat cele doua motoare, rotile, acumulatorul care este o baterie de 9V si modulul bluetooth . Pe acestea le-am conectat la shield , care era totodata conectat la placuta arduino uno.  
