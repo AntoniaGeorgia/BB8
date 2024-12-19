@@ -22,7 +22,7 @@ Această combinație de programare de nivel jos, mecanisme fizice și control wi
 | Arduino Uno       | Placă de dezvoltare pentru control           | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/ARD" width="100">  |
 | L292N Shield       | Driver pentru motoare                       | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/l293.jpeg" width="100"> |
 | Servo             | Motor servo pentru mișcare precisă          | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/servo.jpeg" width="100">                      |
-| Bluetooth ZS-040  | Modul Bluetooth pentru control wireless     | 1         | <img src="![HC-05-Bluetooth-ZS-040-Button](https://github.com/user-attachments/assets/4cf3e9c6-ab1f-4b39-b09d-df75bb6651b0)" width="100">                    |
+| Bluetooth ZS-040  | Modul Bluetooth pentru control wireless     | 1         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/HC-05-Bluetooth-ZS-040-Button.jpg" width="100">                    |
 | Motor DC          | Motor de curent continuu pentru roți        | 2         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/motor%20dc.jpeg" width="100">   |
 | Roti              | Roti pentru motor DC                        | 2         | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/set-de-4-roi-negre-cu-aderena-puternica.jpg" width="100">  |
 | Fire              | Cablu pentru conectare componente           | Mai multe | <img src="https://github.com/AntoniaGeorgia/BB8/blob/main/img/wire.jpeg" width="100">       |
@@ -44,17 +44,19 @@ Schema electrică integrează modulul Bluetooth ZS-040 conectat la pinii A0 și 
 ## _Etape realizare corp robot_
 
 1. **Construcția corpului sferic și a cadrului intern**: Am folosit imprimanta 3D din laboratorul 314 pentru a realiza suportii pieselor , doi piloni de sustinere si un cilindru pentru a fi actionat de servomotor .Pentru realizarea schemei 3D am folosit aplicatiile AUTODESK FUSION si PRUSA .
-   ![image](https://github.com/user-attachments/assets/02ef5ad4-58c3-4308-bf49-d6c46aa57aa1)
+   Imagini cu realizarea etapelor :
+    
+ <img src="https://github.com/user-attachments/assets/02ef5ad4-58c3-4308-bf49-d6c46aa57aa1" width="500">
 
-   ![image](https://github.com/user-attachments/assets/7877d16f-17dc-4cd1-9ea8-11d57c953b41)
+   <img src="https://github.com/user-attachments/assets/7877d16f-17dc-4cd1-9ea8-11d57c953b41" width="500">
 
-   ![image](https://github.com/user-attachments/assets/250471c0-aacb-460a-8f44-2eb10e42faf5)
+   <img src="https://github.com/user-attachments/assets/250471c0-aacb-460a-8f44-2eb10e42faf5" width="500">
 
-   ![WhatsApp Image 2024-12-19 at 16 31 36_164d0b1b](https://github.com/user-attachments/assets/434f2d9c-dc36-4780-82d2-3261b4568838)
-   ![WhatsApp Image 2024-12-19 at 16 31 37_64634201](https://github.com/user-attachments/assets/3f9f98c5-a2bf-405b-88d1-6f8a2c61e9a7)
-   ![WhatsApp Image 2024-12-19 at 16 31 38_849846c0](https://github.com/user-attachments/assets/f52fdb44-4f9a-44fa-94bc-72fd676b58b1)
-   ![WhatsApp Image 2024-12-19 at 16 31 38_a1564142](https://github.com/user-attachments/assets/016769b4-a115-4a72-b69f-4e5f862afb8f)
-   ![WhatsApp Image 2024-12-19 at 16 50 07_465a5c95](https://github.com/user-attachments/assets/f8217331-3e5a-47fd-abe7-e4d3e2e5ecc8)
+   ![WhatsApp Image 2024-12-19 at 16 31 36_164d0b1b](https://github.com/user-attachments/assets/434f2d9c-dc36-4780-82d2-3261b4568838
+   ![WhatsApp Image 2024-12-19 at 16 31 37_64634201](https://github.com/user-attachments/assets/3f9f98c5-a2bf-405b-88d1-6f8a2c61e9a7
+   ![WhatsApp Image 2024-12-19 at 16 31 38_849846c0](https://github.com/user-attachments/assets/f52fdb44-4f9a-44fa-94bc-72fd676b58b1
+   ![WhatsApp Image 2024-12-19 at 16 31 38_a1564142](https://github.com/user-attachments/assets/016769b4-a115-4a72-b69f-4e5f862afb8f
+   ![WhatsApp Image 2024-12-19 at 16 50 07_465a5c95](https://github.com/user-attachments/assets/f8217331-3e5a-47fd-abe7-e4d3e2e5ecc8
    
 
 
