@@ -66,6 +66,7 @@ https://github.com/AntoniaGeorgia/BB8/blob/main/img/videobb8.mp4
 
 
 
+
    
 
 3. **Montarea componentelor electronice**: Pe primul suport am montat cele doua motoare, rotile, acumulatorul care este o baterie de 9V si modulul bluetooth . Pe acestea le-am conectat la shield , care era totodata conectat la placuta arduino uno.  
@@ -73,6 +74,98 @@ https://github.com/AntoniaGeorgia/BB8/blob/main/img/videobb8.mp4
 5. **Testare finală și optimizare**: 
 
 ## _Cod_
+#include <AFMotor.h>  // AFMotor Library (pentru L298N)
+#include <Servo.h>    // Servo Library
+#include<Arduino.h>
+// Definirea pinilor pentru motoare și servo
+AF_DCMotor motor1(1, MOTOR12_1KHZ); 
+AF_DCMotor motor2(2, MOTOR12_1KHZ);
+Servo myservo;    // Obiect pentru servomotor
+
+// Setări pentru mișcări și control
+int speedSet = 150; // Viteza motoarelor
+int servoAngle = 90; // Poziția inițială a servomotorului
+
+// Prototipuri pentru funcțiile de control ale motoarelor
+void moveForward();
+void moveBackward();
+void turnLeft();
+void turnRight();
+void stopMotors();
+void rotateServo();
+
+void setup() {
+  // Atașează servomotorul la pinul 10
+  myservo.attach(10);  
+  myservo.write(servoAngle);  // Poziția inițială a servo-ului
+  delay(1000); // Așteaptă o secundă pentru configurare
+
+  // Pornim motoarele
+  moveForward();
+}
+
+void loop() {
+  // Mișcări autonome periodic
+  moveForward();
+  delay(2000);  // Mergi înainte timp de 2 secunde
+
+  turnLeft();
+  delay(1000);  // Rotește stânga timp de 1 secundă
+
+  moveBackward();
+  delay(2000);  // Mergi înapoi timp de 2 secunde
+
+  turnRight();
+  delay(1000);  // Rotește dreapta timp de 1 secundă
+
+  stopMotors();
+  delay(1000);  // Oprește timp de 1 secundă
+  
+  // Mișcarea servo-ului
+  rotateServo();
+  delay(1000);  // Așteaptă 1 secundă înainte de a relua ciclul
+}
+
+// Funcții pentru controlul motoarelor
+void moveForward() {
+  motor1.run(FORWARD);      
+  motor2.run(FORWARD);  
+  motor1.setSpeed(speedSet);
+  motor2.setSpeed(speedSet);
+}
+
+void moveBackward() {
+  motor1.run(BACKWARD);      
+  motor2.run(BACKWARD);  
+  motor1.setSpeed(speedSet);
+  motor2.setSpeed(speedSet);
+}
+
+void turnLeft() {
+  motor1.run(BACKWARD);     
+  motor2.run(FORWARD);  
+  motor1.setSpeed(speedSet);
+  motor2.setSpeed(speedSet);
+}
+
+void turnRight() {
+  motor1.run(FORWARD);      
+  motor2.run(BACKWARD);  
+  motor1.setSpeed(speedSet);
+  motor2.setSpeed(speedSet);
+}
+
+void stopMotors() {
+  motor1.run(RELEASE); 
+  motor2.run(RELEASE); 
+}
+
+// Funcția pentru a roti servomotorul
+void rotateServo() {
+  servoAngle = (servoAngle == 90) ? 0 : 90; // Comută între 0 și 90 grade
+  myservo.write(servoAngle);  // Setează poziția servomotorului
+}
+
 
 
 
